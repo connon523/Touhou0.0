@@ -98,7 +98,7 @@ ScriptedImporter:
       y: 4
       width: 433
       height: 334
-    spriteID: 56e536fbe48da874a8200e46afbc5581
+    spriteID: a11b616ec7dec154f9b63831d08b7c69
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -120,7 +120,7 @@ ScriptedImporter:
       y: 346
       width: 398
       height: 205
-    spriteID: fb985a45523d9a345b3acf4af10f337a
+    spriteID: 24dd45c4552e432478c209fb8201b2ea
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -142,7 +142,7 @@ ScriptedImporter:
       y: 4
       width: 306
       height: 328
-    spriteID: bc60dbf095e9c5f4290e596faf9aa43e
+    spriteID: cd7d863673c2b7e48be301fa0728bebf
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -164,7 +164,7 @@ ScriptedImporter:
       y: 4
       width: 149
       height: 233
-    spriteID: 295dd215ed0ca61458b8fd79d4325c99
+    spriteID: 3bd097e82907aff4381d97b026c3ade5
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -186,7 +186,7 @@ ScriptedImporter:
       y: 346
       width: 296
       height: 325
-    spriteID: f12dd9b25f09d0e42ba625bea98eb632
+    spriteID: 0edecf21c1921f6408f5394acdb4b454
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -208,7 +208,7 @@ ScriptedImporter:
       y: 245
       width: 157
       height: 82
-    spriteID: 821e4aad7fa2b4e4ca74bae6b6b75925
+    spriteID: e2537fd29d284fa40a05c3673c811db0
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -230,7 +230,7 @@ ScriptedImporter:
       y: 346
       width: 120
       height: 229
-    spriteID: 2bcc019f137edc54a93e924932eab075
+    spriteID: 8d54e7b1a2018d947b7c0a2dc1d9538c
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 679
       width: 480
       height: 147
-    spriteID: 326be8bdb6038bb40b02ab32a73601c1
+    spriteID: 354a955d4f1e0ad40a7eb154de127e11
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -286,56 +286,56 @@ ScriptedImporter:
     spriteName: "\u53CD\u6D3E  \u982D\u9AEE"
     isGroup: 0
     parentIndex: -1
-    spriteID: 56e536fbe48da874a8200e46afbc5581
+    spriteID: a11b616ec7dec154f9b63831d08b7c69
     layerID: 10
     mosaicPosition: {x: 4, y: 4}
   - name: "\u53CD\u6D3E  \u982D\u98FE"
     spriteName: "\u53CD\u6D3E  \u982D\u98FE"
     isGroup: 0
     parentIndex: -1
-    spriteID: fb985a45523d9a345b3acf4af10f337a
+    spriteID: 24dd45c4552e432478c209fb8201b2ea
     layerID: 9
     mosaicPosition: {x: 308, y: 346}
   - name: "\u53CD\u6D3E  \u982D"
     spriteName: "\u53CD\u6D3E  \u982D"
     isGroup: 0
     parentIndex: -1
-    spriteID: bc60dbf095e9c5f4290e596faf9aa43e
+    spriteID: cd7d863673c2b7e48be301fa0728bebf
     layerID: 8
     mosaicPosition: {x: 445, y: 4}
   - name: "\u53CD\u6D3E  \u5DE6\u624B"
     spriteName: "\u53CD\u6D3E  \u5DE6\u624B"
     isGroup: 0
     parentIndex: -1
-    spriteID: 295dd215ed0ca61458b8fd79d4325c99
+    spriteID: 3bd097e82907aff4381d97b026c3ade5
     layerID: 4
     mosaicPosition: {x: 759, y: 4}
   - name: "\u53CD\u6D3E  \u8863\u670D"
     spriteName: "\u53CD\u6D3E  \u8863\u670D"
     isGroup: 0
     parentIndex: -1
-    spriteID: f12dd9b25f09d0e42ba625bea98eb632
+    spriteID: 0edecf21c1921f6408f5394acdb4b454
     layerID: 5
     mosaicPosition: {x: 4, y: 346}
   - name: "\u53CD\u6D3E  \u8173"
     spriteName: "\u53CD\u6D3E  \u8173"
     isGroup: 0
     parentIndex: -1
-    spriteID: 821e4aad7fa2b4e4ca74bae6b6b75925
+    spriteID: e2537fd29d284fa40a05c3673c811db0
     layerID: 7
     mosaicPosition: {x: 759, y: 245}
   - name: "\u53CD\u6D3E  \u53F3\u624B"
     spriteName: "\u53CD\u6D3E  \u53F3\u624B"
     isGroup: 0
     parentIndex: -1
-    spriteID: 2bcc019f137edc54a93e924932eab075
+    spriteID: 8d54e7b1a2018d947b7c0a2dc1d9538c
     layerID: 3
     mosaicPosition: {x: 714, y: 346}
   - name: "\u53CD\u6D3E  \u7FC5\u8180"
     spriteName: "\u53CD\u6D3E  \u7FC5\u8180"
     isGroup: 0
     parentIndex: -1
-    spriteID: 326be8bdb6038bb40b02ab32a73601c1
+    spriteID: 354a955d4f1e0ad40a7eb154de127e11
     layerID: 6
     mosaicPosition: {x: 4, y: 679}
   characterData:
