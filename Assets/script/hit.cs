@@ -21,7 +21,7 @@ public class hit : MonoBehaviour
         if (Input.GetKeyDown(KeyToPress))
         {
             if (canBepress)
-            {
+            {                           
                 gameObject.SetActive(false);
             }
         }
