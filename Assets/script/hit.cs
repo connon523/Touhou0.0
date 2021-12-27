@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class hit : MonoBehaviour
 {
+    public KeyCode KeyToPress;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,16 +15,8 @@ public class hit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+                                 
     }
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("perfect"))
-        {
-
-            if()
-            other.gameObject.SetActive(false);
-        }
-    }
+    
 
 }
