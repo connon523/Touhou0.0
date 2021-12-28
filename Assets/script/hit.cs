@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class hit : MonoBehaviour
 {
     public KeyCode KeyToPress;
@@ -35,6 +36,11 @@ public class hit : MonoBehaviour
         if(other.tag == "perfect")
         {
             canBepress = true;
+        }
+        if (other.tag == "miss")
+        {
+            canBepress = false;
+        
         }
     }
 
