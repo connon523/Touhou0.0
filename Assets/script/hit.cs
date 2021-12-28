@@ -32,11 +32,19 @@ public class hit : MonoBehaviour
         {
             canBepress = true;
         }
+        if(other.tag == "perfect")
+        {
+            canBepress = true;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag == "good")
+        {
+            canBepress = false;
+        }
+        if (other.tag == "perfect")
         {
             canBepress = false;
         }
