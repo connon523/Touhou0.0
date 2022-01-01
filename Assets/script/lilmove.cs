@@ -6,7 +6,7 @@ public class lilmove : MonoBehaviour
 {
     float radian = 0;
     float perRadian = 0.05f;
-    float radius = 0.5f;
+    float radius = 0.1f;
     Vector3 oldpos;
     // Start is called before the first frame update
     void Start()
