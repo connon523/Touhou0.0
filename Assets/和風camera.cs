@@ -16,10 +16,6 @@ public class 和風camera : MonoBehaviour
         
         transform.Translate(Vector3.right * Time.deltaTime * mSpeed);
        
-        if (transform.position.x >= 19.9F)
-        {
-           
-            transform.position = new Vector3(0F, transform.position.y, transform.position.z);
-        }
+       
     }
 }

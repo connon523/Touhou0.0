@@ -7,6 +7,7 @@ public class hit : MonoBehaviour
 {
     public KeyCode KeyToPress;
 
+    public int A;
     public bool canBepress;
     // Start is called before the first frame update
     void Start()
@@ -17,7 +18,7 @@ public class hit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position -= new Vector3(1f * Time.deltaTime, 0f);
+        transform.position -= new Vector3(A * Time.deltaTime, 0f);
 
         if (Input.GetKeyDown(KeyToPress))
         {
