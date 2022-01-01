@@ -45,3 +45,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: hitbox
+    uniqueID: 3255574583
+    locked: 0
